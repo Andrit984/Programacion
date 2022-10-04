@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Quiento B</h1>
+<h3>Jefe de  GRUPO</h3>
+<p>My first paragraph.</p>
+
+ <a href=" https://lenguajehtml.com/html "> Esta es una página de ayuda
+para mi sitio HTML.</a>
+
+<img src="https://cdn.devdojo.com/images/April2016/html5-game.png">
+
+<source src="https://www.youtube.com/watch?v=KIAovnfAWkQ" type="video/mp4">
+<video width="320"  height="240" controls>
+</body>
+</html>
